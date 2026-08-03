@@ -7,7 +7,7 @@
 $DB_HOST = "localhost";
 $DB_NAME = "gitec_erp";
 $DB_USER = "root";
-$DB_PASS = ""; // default XAMPP root password is blank; change for production
+$DB_PASS = "YourPassword123!"; // default XAMPP root password is blank; change for production
 
 try {
     $pdo = new PDO(
