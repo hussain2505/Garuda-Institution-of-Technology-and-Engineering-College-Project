@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GITEC ERP — Garuda Institute of Technology & Engineering College
 
 A final-year project: a role-based College ERP web portal built with
@@ -131,3 +132,6 @@ modules to add, following the same pattern (PDO + prepared statements +
 CSRF + `requireRole()`): Library issue/return, Hostel & Transport allocation,
 Placement drives, Timetable, and an Analytics page using Chart.js fed by
 simple `GROUP BY` queries against the existing schema.
+=======
+# Garuda-Institution-of-Technology-and-Engineering-College-Project
+>>>>>>> 082a968 (Initial commit)
